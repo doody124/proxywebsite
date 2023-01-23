@@ -1,13 +1,13 @@
 body {
-    background: #000000;
-    color: #ffffff;
+    background: #e9e8e8;
+    color: #0e0d0d;
     padding: 25px;
     font-family: sans-serif;
     text-align: center;
   }
   
   table, th, td {
-    border: 1px white solid;
+    border: 1px #ffffff;
   }
   
   td, th {
@@ -34,6 +34,29 @@ body {
   }
   
   .link {
+    color: #ffffff;
+  }
+  
+  .classified {
+    font-family: Courier;
+    font-size: 14px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .image1 {
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  
+  #proxies {
     color: #ffffff;
   }
   
