@@ -1,0 +1,39 @@
+body {
+    background: #000000;
+    color: #ffffff;
+    padding: 25px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  table, th, td {
+    border: 1px white solid;
+  }
+  
+  td, th {
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 500px;
+  }
+  
+  .website, .privacy, .status {
+    width: 125px;
+  }
+  
+  th {
+    height: 20px;
+  }
+  
+  td {
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .link {
+    color: white;
+  }
+  
